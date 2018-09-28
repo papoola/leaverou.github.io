@@ -3,6 +3,15 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"country": "af"
+		},
+		{
+			"talk": [
+				{
 					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
